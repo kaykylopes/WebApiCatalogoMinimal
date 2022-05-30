@@ -59,3 +59,4 @@ C:\Users\kaykylopes\source\repos\WebApiCatalogoMinimal\WebApiCatalogoMinimal\obj
 C:\Users\kaykylopes\source\repos\WebApiCatalogoMinimal\WebApiCatalogoMinimal\obj\Debug\net6.0\WebApiCatalogoMinimal.pdb
 C:\Users\kaykylopes\source\repos\WebApiCatalogoMinimal\WebApiCatalogoMinimal\obj\Debug\net6.0\WebApiCatalogoMinimal.genruntimeconfig.cache
 C:\Users\kaykylopes\source\repos\WebApiCatalogoMinimal\WebApiCatalogoMinimal\obj\Debug\net6.0\ref\WebApiCatalogoMinimal.dll
+C:\Users\kaykylopes\source\repos\WebApiCatalogoMinimal\WebApiCatalogoMinimal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
